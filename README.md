@@ -14,7 +14,7 @@ spawn --userscript translate
 By default the source language will be automatically detected and the target language will be English.
 To specify other languages use the arguments `-s/--source` and `-t/--target`. For example to translate from German to Swedish do
 ```
-spawn --userscript translate -s ge -t sv
+spawn --userscript translate -s de -t sv
 ```
 
 Default languages can also be set using the environment variables `QUTE_TRANS_SOURCE` and `QUTE_TRANS_TARGET` in bash.
