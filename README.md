@@ -36,8 +36,8 @@ You can set your own key-bindings for examples as
 ```python
 config.bind(';t', 'hint userscript link translate')
 config.bind(';T', 'hint userscript all translate --text')
-config.bind('<Ctrl-T>', 'spawn --userscript translate')
-config.bind('<Ctrl-Shift-T>', 'spawn --userscript translate --text')
+config.bind('<Ctrl+T>', 'spawn --userscript translate')
+config.bind('<Ctrl+Shift+T>', 'spawn --userscript translate --text')
 ```
 
 ## Contributions
