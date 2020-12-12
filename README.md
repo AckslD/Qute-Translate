@@ -3,7 +3,7 @@
 [userscript](https://github.com/qutebrowser/qutebrowser/blob/master/doc/userscripts.asciidoc) for [qutebrowser](https://github.com/qutebrowser/qutebrowser) for translation of pages or selected text using [Google translate](https://translate.google.com/).
 
 ## Installation
-Run `install.sh` or simply copy to the file `translate` to the qutebrowser's userscripts directory and make it executable.
+Run `install.sh` or simply create a symbolic link or copy the file `translate` to the qutebrowser's userscripts directory (usually `~/.local/share/qutebrowser/userscripts`) and make it executable.
 
 ## Usage
 ### Translate page
